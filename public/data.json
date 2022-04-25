@@ -1,0 +1,82 @@
+[
+    {
+      "id": "625c4d983d53cc5009112ebf",
+      "index": 0,
+      "isActive": false,
+      "price": 1089,
+      "picture": "https://i.ibb.co/Tw1tn5s/chicken-Mix-Carry.jpg",
+      "name": "Chicken Mix Carry"
+    },
+    {
+      "id": "625c4d98154519873f3426d1",
+      "index": 1,
+      "isActive": true,
+      "price": 905,
+      "picture": "https://i.ibb.co/QNFjhhX/meatBall.jpg/32x32",
+      "name": "Meat Ball"
+    },
+    {
+      "id": "625c4d9865c29fa276d5727f",
+      "index": 2,
+      "isActive": false,
+      "price": 1060,
+      "picture": "https://i.ibb.co/CQYFSH3/french-Fries.jpg",
+      "name": "French Fries"
+    },
+    {
+      "id": "625c4d986c78d7cffa109c45",
+      "index": 3,
+      "isActive": false,
+      "price": 646,
+      "picture": "https://i.ibb.co/6twfvwC/chicken-Carry.jpg/32x32",
+      "name": "Chicken Carry"
+    },
+    {
+      "id": "625c4d980b3ed08519fa9082",
+      "index": 4,
+      "isActive": false,
+      "price": 1772,
+      "picture": "https://i.ibb.co/VB4v7S0/chicken-Masala.jpg/32x32",
+      "name": "Chicken Masala"
+    },
+    {
+      "id": "625c4d98eab1d500287ad238",
+      "index": 5,
+      "isActive": true,
+      "price": 1056,
+      "picture": "https://i.ibb.co/2czrQw7/hole-Chicken.jpg/32x32",
+      "name": "Hot Chicken"
+    },
+    {
+      "id": "625c4d9876030840cd13f0ac",
+      "index": 6,
+      "isActive": false,
+      "price": 989,
+      "picture": "https://i.ibb.co/WpNxwt3/chicken-Lag.jpg/32x32",
+      "name": "Chicken Lag"
+    },
+    {
+      "id": "625c4d98eb21e31804e4dee3",
+      "index": 7,
+      "isActive": true,
+      "price": 989,
+      "picture": "https://i.ibb.co/rv3pkcJ/chicken-Yaki.jpg/32x32",
+      "name": "Chicken Yaki"
+    },
+    {
+      "id": "625c4d98e561cfe188bfa77b",
+      "index": 8,
+      "isActive": true,
+      "price": 935,
+      "picture": "https://i.ibb.co/PYFPc6n/chicken-Breast.jpg/32x32",
+      "name": "Chicken Breast"
+    },
+    {
+        "id": "625c4d98eb21e31804e4dee3",
+        "index": 9,
+        "isActive": true,
+        "price": 980,
+        "picture": "https://i.ibb.co/k16R0rr/chicken-Ramen.jpg/32x32",
+        "name": "Chicken Ramen"
+      }
+  ]

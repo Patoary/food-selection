@@ -1,0 +1,32 @@
+.food{
+    height: 500px;
+    width: 300px;
+    border: 1px solid goldenrod;
+    margin: 10px;
+    border-radius: 8px;
+    position: relative;
+}
+.food img{
+    width: 250px;
+    height: 280px;
+    margin-top: 18px;
+    border-radius: 8px;
+}
+.btn-cart{
+    width: 100%;
+    position: absolute;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    bottom: 0px; 
+    background: #FFE0B3;
+}
+.btn-text{
+    margin-right: 10px;
+}
+
+.btn-cart:hover{
+    background-color: goldenrod;
+}
